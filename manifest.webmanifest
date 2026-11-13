@@ -1,0 +1,1 @@
+{"name": "Sohel Studio", "short_name": "Sohel Studio", "start_url": "/", "display": "standalone", "background_color": "#0b1020", "theme_color": "#101322", "icons": [{"src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}
